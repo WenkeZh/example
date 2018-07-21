@@ -1,0 +1,8 @@
+git clone  http//:xxxxxxxxxxxxxxxx.git
+git branch 
+git branch xxx
+git checkout xxx
+git pull origin master
+git add  .
+git commit -s -m "xxxxxxxx"
+git push origin  xxx:xxx
